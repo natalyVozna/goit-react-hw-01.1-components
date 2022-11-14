@@ -92,7 +92,6 @@
   padding: 26px 10px;
   background-color: rgba(33, 148, 242, 0.3);
   border-top: 1px solid var(--gray-color);
-  /* background-color: rgba(#2094f3, 0.5); */
 }
 
 .item:not(:last-child) {
