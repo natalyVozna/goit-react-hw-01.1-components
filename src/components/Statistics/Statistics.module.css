@@ -8,6 +8,7 @@
   border-radius: 4px;
   background-color: var(--color-white);
   transition: box-shadow 250ms var(--timing-function);
+  /* background-color: ; */
 }
 
 .title {

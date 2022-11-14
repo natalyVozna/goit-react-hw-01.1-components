@@ -10,7 +10,6 @@ export const Profile = ({
   views,
   likes,
 }) => {
-  console.log('css', css);
   return (
     <div className={css.profile}>
       <div className={css.description}>
